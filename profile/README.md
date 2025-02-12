@@ -33,7 +33,7 @@ Have a project in mind? Let’s collaborate!
 
 🌎 Website: [deerdeveloper.com](https://www.deerdeveloper.com/)  
 📧 Email: info@deerdeveloper.com  
-📘 Facebook: [@DeerDeveloper](https://www.facebook.com/deerdevelopers)  
+📘 Facebook: [Deer Developer](https://www.facebook.com/deerdevelopers)  
 📷 Instagram: [Deer Developer](https://www.instagram.com/company/deerdevelopers)
 
 ---
